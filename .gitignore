@@ -1,0 +1,4 @@
+*.txt
+*.model 
+*.h5
+imdb_word2vec.model 
